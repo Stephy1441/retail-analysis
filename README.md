@@ -55,8 +55,7 @@ Retail_Chip_Analysis/
 ---
 
 ## 🚀 Future Enhancements
-- Deploy as an interactive dashboard using **Power BI** or **Streamlit**.
-- Perform **customer segmentation** using clustering algorithms.
+- Deploy as an interactive dashboard using **Power BI**
 - Apply **time series forecasting** to predict future chip sales.
 - Build a **product recommendation system** based on purchasing behavior.
 
